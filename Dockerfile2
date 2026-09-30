@@ -73,7 +73,7 @@ RUN echo "@testing https://dl-cdn.alpinelinux.org/alpine/edge/main" | tee -a /et
         su-exec \
         openssl \
         openssl-dev \
-        openjdk21-jre \
+        openjdk25-jre \
 # Doc conversion
 		gcompat \
     	libc6-compat \
